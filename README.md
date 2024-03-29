@@ -12,24 +12,31 @@ EN: This repository is a compilation of my personal proyects since the beggining
      
 <br><br><br><br>
 <div align="center">
+
      
 <hr>
 <h1># HTML</h1>
 <hr>
 
-<br><br>
+
+<br><br><br><br>
+
 
 <h2>Mi primera página web    //    My first web page;</h2>
 (spanish) https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML
 
 
-
-
 <br><br><br><br>
+
+
 <h2>Mi primer blog    //    My first blog (spanish);</h2>
 (spanish) https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML
 
+
+
 <br><br><br><br>
+
+
 
 <hr>
 <h1># CSS </h1>
@@ -37,25 +44,45 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 <br><br>
 
+
+
 <br><br><br><br>
+
+
 
 <hr>
 <h1># JavaScript / TypeScript </h1>
 <hr>
 
 
+
+
+<br><br><br><br>
+
+
 <h2>To Do List     //     Lista de Tareas(quehaceres)</h2>
 [EN/ES] https://github.com/MemoSainz/To-Do-List_ListaDeTareas-JS
 
 
+<br><br><br><br>
+
+
 <h2>Calculator     //     Calculadora</h2>
 [EN/ES] https://github.com/MemoSainz/Calculadora-Calculator_JS
+
+
+<br><br><br><br>
+
 
 <h2>Number Riddle     //     Juego adivinar número</h2>
 
 [ES] https://github.com/MemoSainz/JS-Juego-Adivinar-Numero
 
 [EN] https://github.com/MemoSainz/JS-Number-Ridde
+
+
+<br><br><br><br>
+
 
 Travel Sale     //     Viajes-Venta
 
