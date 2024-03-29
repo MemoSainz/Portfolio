@@ -38,7 +38,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 <br><br><br><br>
-<h1># Proyectos en JS/TS:     //     Projects in CSS </h1>
+<h1># Proyectos en JS/TS:     //     Projects in JS/TS </h1>
 
 
 <h2>To Do List     //     Lista de Tareas(quehaceres)</h2>
