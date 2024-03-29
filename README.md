@@ -62,7 +62,7 @@ Travel Sale     //     Viajes-Venta
 
 [EN] https://github.com/MemoSainz/JS-Travel-Sale
 
-&nbsp; &nbsp; <a target="_blank"> [Netlify](https://travel-sales-javascript.netlify.app/) <a>
+&nbsp; &nbsp; <a target="_blank" href="https://travel-sales-javascript.netlify.app/"> [Netlify] <a>
 
 
 
