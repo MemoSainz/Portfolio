@@ -1,6 +1,6 @@
 <p align="center">English // Spanish &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Inglés // Español</p>
 <hr>
-ES: Este repositorio es una recopilación de mis proyectos personales a lo largo de mi estudio en programción y código desde el 2023 hasta el 2024.
+ES: Este repositorio es una recopilación de mis proyectos personales a lo largo de mi estudio en programación y código desde el 2023 hasta el 2024.
 <br>
      Además los subí a Netlify la mayoría de proyectos en Github. La gran mayoría están disponibles en inglés.
 <br> <hr>
