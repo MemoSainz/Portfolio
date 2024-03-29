@@ -44,7 +44,9 @@ EN: This repository is a compilation of my personal proyects since the beggining
 [EN/ES] https://github.com/MemoSainz/To-Do-List_ListaDeTareas-JS
 
 <h2>Number Riddle     //     Juego adivinar número</h2>
+
 [ES] https://github.com/MemoSainz/JS-Juego-Adivinar-Numero
+
 [EN] https://github.com/MemoSainz/JS-Number-Ridde
 
 
