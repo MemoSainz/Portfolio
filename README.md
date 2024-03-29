@@ -93,7 +93,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <br><br><br><br>
 
 
-Travel Sale     //     Viajes-Venta
+<h2>Travel Sale     //     Viajes-Venta</h2>
 
 [ES] [GitHub](https://github.com/MemoSainz/JS-viajes-venta) [Netlify](https://viajes-venta-javascript.netlify.app/)
 
