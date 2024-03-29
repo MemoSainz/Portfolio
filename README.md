@@ -58,11 +58,11 @@ Travel Sale     //     Viajes-Venta
 
 [ES] https://github.com/MemoSainz/JS-viajes-venta 
 
-&nbsp; &nbsp; https://viajes-venta-javascript.netlify.app/
+&nbsp; &nbsp; [Netlify](https://viajes-venta-javascript.netlify.app/)
 
 [EN] https://github.com/MemoSainz/JS-Travel-Sale
 
-&nbsp; &nbsp; https://travel-sales-javascript.netlify.app/
+&nbsp; &nbsp; [Netlify](https://travel-sales-javascript.netlify.app/)
 
 
 
