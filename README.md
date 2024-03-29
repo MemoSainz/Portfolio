@@ -13,15 +13,23 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <hr>
 <h1># Proyectos en HTML   //    Projects in HTML</h1>
 
+
+
 <hr><br><br>
-
-
 <h2>Mi primera página web    //    My first web page;</h2>
 https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML
 
+
+
+
+<br><br><br><br>
 <h2>Mi primer blog    //    My first blog;</h2>
 https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML
 
+
+
+
+<br><br><br><br>
 <h1># Proyectos en CSS     //     Projects in CSS </h1>
 
 <h1># Proyectos en JS/TS:     //     Projects in CSS </h1>
