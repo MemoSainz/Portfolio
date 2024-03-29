@@ -1,4 +1,4 @@
-English // Spanish &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Inglés // Español
+<p align="center">English // Spanish &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Inglés // Español</p>
 <hr>
 ES: Este repositorio es una recopilación de mis proyectos personales a lo largo de mi estudio en programción y código desde el 2023 hasta el 2024.
 <br>
