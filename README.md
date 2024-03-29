@@ -6,7 +6,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 
- Proyectos en HTML   //    Proyects in HTML
+<h1> Proyectos en HTML   //    Proyects in HTML</h1>
 
 <h2>#Mi primera página web    //    My first web page;</h2>
 [https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML](https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML)
