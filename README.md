@@ -5,7 +5,7 @@ ES: Este repositorio es una recopilación de mis proyectos personales a lo largo
      Además los subí a Netlify la mayoría de proyectos en Github
 <br> <hr>
 EN: This repository is a compilation of my personal proyects since the beggining of my studies in programming and coding from 2023 to 2024<br>
-     I also upload them to Netlify most of my Github Projects
+     I also uploaded them to Netlify most of my Github Projects
 <hr>
      
 <br><br><br><br>
