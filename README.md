@@ -9,10 +9,12 @@ EN: This repository is a compilation of my personal proyects since the beggining
 Proyectos en HTML   //    Proyects in HTML
 
 #Mi primera página web:
+
 My first web page;
 [https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML](https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML)
 
 #Mi primer blog:
+
 #My first blog;
 [https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML](https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML)
 
