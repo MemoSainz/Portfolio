@@ -56,8 +56,11 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 Travel Sale     //     Viajes-Venta
 [ES] https://github.com/MemoSainz/JS-viajes-venta 
+
 &nbsp; &nbsp; https://viajes-venta-javascript.netlify.app/
+
 [EN] https://github.com/MemoSainz/JS-Travel-Sale
+
 &nbsp; &nbsp; https://travel-sales-javascript.netlify.app/
 
 
