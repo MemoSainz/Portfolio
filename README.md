@@ -12,12 +12,13 @@ EN: This repository is a compilation of my personal proyects since the beggining
      
 <br><br><br><br>
 <div align="center">
+     
 <hr>
 <h1># HTML</h1>
+<hr>
 
+<br><br>
 
-
-<hr><br><br>
 <h2>Mi primera página web    //    My first web page;</h2>
 (spanish) https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML
 
@@ -28,17 +29,19 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <h2>Mi primer blog    //    My first blog (spanish);</h2>
 (spanish) https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML
 
-
-
-
 <br><br><br><br>
+
+<hr>
 <h1># CSS </h1>
+<hr>
 
-
-
+<br><br>
 
 <br><br><br><br>
+
+<hr>
 <h1># JavaScript / TypeScript </h1>
+<hr>
 
 
 <h2>To Do List     //     Lista de Tareas(quehaceres)</h2>
