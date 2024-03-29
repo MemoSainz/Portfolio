@@ -22,7 +22,8 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <br><br><br><br>
 
 
-<h2>Mi primera página web    //    My first web page;</h2>
+<h2>Mi primera página web    //    My first web page(spanish);</h2>
+
 (spanish) [GitHub](https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML)
 [Netlify](https://mi-primera-pagina-web-memo.netlify.app/)
 
@@ -31,6 +32,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 <h2>Mi primer blog    //    My first blog (spanish);</h2>
+
 (spanish) [GitHub](https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML)
 [Netlify](https://mi-primer-blog-memo.netlify.app/)
 
