@@ -13,7 +13,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <br><br><br><br>
 <div align="center">
 <hr>
-<h1># Proyectos en HTML   //    Projects in HTML</h1>
+<h1># HTMLL</h1>
 
 
 
@@ -32,13 +32,13 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 <br><br><br><br>
-<h1># Proyectos en CSS     //     Projects in CSS </h1>
+<h1># CSS </h1>
 
 
 
 
 <br><br><br><br>
-<h1># Proyectos en JS/TS:     //     Projects in JS/TS </h1>
+<h1># JavaScript / TypeScript </h1>
 
 
 <h2>To Do List     //     Lista de Tareas(quehaceres)</h2>
