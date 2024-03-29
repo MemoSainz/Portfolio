@@ -6,12 +6,12 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 
-Proyectos en HTML   //    Proyects in HTML
+ Proyectos en HTML   //    Proyects in HTML
 
-#Mi primera página web    //    My first web page;
+<h2>#Mi primera página web    //    My first web page;</h2>
 [https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML](https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML)
 
-#Mi primer blog    //    My first blog;
+<h2>#Mi primer blog    //    My first blog;</h2>
 [https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML](https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML)
 
 Proyectos en CSS:
