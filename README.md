@@ -62,17 +62,20 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 <h2>To Do List     //     Lista de Tareas(quehaceres)</h2>
+
 [EN/ES] [GitHub](https://github.com/MemoSainz/To-Do-List_ListaDeTareas-JS)
-[Netlify [English]](https://to-do-list-memosainz.netlify.app/)
-[Netlify [Spanish]](https://lista-de-quehaceres-memosainz.netlify.app/)
+
+[EN] [Netlify](https://to-do-list-memosainz.netlify.app/)
+
+[ES] [Netlify](https://lista-de-quehaceres-memosainz.netlify.app/)
 
 
 <br><br><br><br>
 
 
 <h2>Calculator     //     Calculadora</h2>
-[GitHub](https://github.com/MemoSainz/Calculadora-Calculator_JS)
-[Netlify](https://caculator-javascript-memosainz.netlify.app/)
+
+[GitHub](https://github.com/MemoSainz/Calculadora-Calculator_JS) [Netlify](https://caculator-javascript-memosainz.netlify.app/)
 
 
 <br><br><br><br>
@@ -80,11 +83,9 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 <h2>Number Riddle     //     Juego adivinar número</h2>
 
-[ES] [GitHub](https://github.com/MemoSainz/JS-Juego-Adivinar-Numero)
-[Netlify](https://juego-adivinar-numero-js-memosainz.netlify.app/)
+[ES] [GitHub](https://github.com/MemoSainz/JS-Juego-Adivinar-Numero) [Netlify](https://juego-adivinar-numero-js-memosainz.netlify.app/)
 
-[EN] [GitHub](https://github.com/MemoSainz/JS-Number-Ridde)
-[Netlify](https://js-riddle-number-memosainz.netlify.app/)
+[EN] [GitHub](https://github.com/MemoSainz/JS-Number-Ridde) [Netlify](https://js-riddle-number-memosainz.netlify.app/)
 
 
 <br><br><br><br>
@@ -92,9 +93,9 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 Travel Sale     //     Viajes-Venta
 
-[ES] [GitHub](https://github.com/MemoSainz/JS-viajes-venta ) &nbsp; &nbsp; [Netlify](https://viajes-venta-javascript.netlify.app/)
+[ES] [GitHub](https://github.com/MemoSainz/JS-viajes-venta) [Netlify](https://viajes-venta-javascript.netlify.app/)
 
-[EN] [GitHub](https://github.com/MemoSainz/JS-Travel-Sale) &nbsp; &nbsp; [Netlify](https://travel-sales-javascript.netlify.app/)
+[EN] [GitHub](https://github.com/MemoSainz/JS-Travel-Sale) [Netlify](https://travel-sales-javascript.netlify.app/)
 
 
 
