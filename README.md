@@ -14,7 +14,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML
 
 <h2>#Mi primer blog    //    My first blog;</h2>
-[https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML](https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML)
+https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML
 
 Proyectos en CSS:
 
