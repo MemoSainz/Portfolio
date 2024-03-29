@@ -23,15 +23,16 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 <h2>Mi primera página web    //    My first web page;</h2>
-(spanish) https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML
+(spanish) [GitHub](https://github.com/MemoSainz/MiPrimeraPaginaWeb_First-Web_HTML)
+[Netlify](https://mi-primera-pagina-web-memo.netlify.app/)
 
 
 <br><br><br><br>
 
 
 <h2>Mi primer blog    //    My first blog (spanish);</h2>
-(spanish) https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML
-
+(spanish) [GitHub](https://github.com/MemoSainz/MiPrimerBlog_First-Blog_HTML)
+[Netlify](https://mi-primer-blog-memo.netlify.app/)
 
 
 <br><br><br><br>
@@ -61,14 +62,17 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 <h2>To Do List     //     Lista de Tareas(quehaceres)</h2>
-[EN/ES] https://github.com/MemoSainz/To-Do-List_ListaDeTareas-JS
+[EN/ES] [GitHub](https://github.com/MemoSainz/To-Do-List_ListaDeTareas-JS)
+[Netlify [English]](https://to-do-list-memosainz.netlify.app/)
+[Netlify [Spanish]](https://lista-de-quehaceres-memosainz.netlify.app/)
 
 
 <br><br><br><br>
 
 
 <h2>Calculator     //     Calculadora</h2>
-[EN/ES] https://github.com/MemoSainz/Calculadora-Calculator_JS
+[GitHub](https://github.com/MemoSainz/Calculadora-Calculator_JS)
+[Netlify](https://caculator-javascript-memosainz.netlify.app/)
 
 
 <br><br><br><br>
@@ -76,9 +80,11 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 <h2>Number Riddle     //     Juego adivinar número</h2>
 
-[ES] https://github.com/MemoSainz/JS-Juego-Adivinar-Numero
+[ES] [GitHub](https://github.com/MemoSainz/JS-Juego-Adivinar-Numero)
+[Netlify](https://juego-adivinar-numero-js-memosainz.netlify.app/)
 
-[EN] https://github.com/MemoSainz/JS-Number-Ridde
+[EN] [GitHub](https://github.com/MemoSainz/JS-Number-Ridde)
+[Netlify](https://js-riddle-number-memosainz.netlify.app/)
 
 
 <br><br><br><br>
@@ -86,7 +92,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 Travel Sale     //     Viajes-Venta
 
-[ES] https://github.com/MemoSainz/JS-viajes-venta 
+[ES] [GitHub](https://github.com/MemoSainz/JS-viajes-venta )
 
 &nbsp; &nbsp; [Netlify](https://viajes-venta-javascript.netlify.app/)
 
