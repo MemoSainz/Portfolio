@@ -42,7 +42,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 <h2>Don Gato (ejemplo HTML)    //    Mr. Cat (example of HTML);</h2>
 
-[GitHub](https://github.com/MemoSainz/proyecto-html-DonGato)
+(spanish) [GitHub](https://github.com/MemoSainz/proyecto-html-DonGato)
 [Netlify](https://don-gato-memosainz.netlify.app/)
 
 <br><br><br><br>
