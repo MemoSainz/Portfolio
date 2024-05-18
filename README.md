@@ -121,4 +121,4 @@ Una página web con algo de CSS, pero mayormente mostrando habilidades en HTML
 
 
 
-</body>
+</div>
