@@ -13,13 +13,15 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <br><br><br><br>
 <div align="center">
 
-     
+
+
+
+<br><br><br>   
 <hr>
 <h1>:camel: # HTML :camel:</h1>
 <hr>
+<br><br><br>
 
-
-<br><br><br><br>
 
 
 <h2>Mi primera página web    //    My first web page(spanish);</h2>
@@ -40,12 +42,11 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <br><br><br><br>
 
 
-
+<br><br><br>
 <hr>
 <h1>:camel: # CSS :camel:</h1>
 <hr>
-
-<br><br><br><br>
+<br><br><br>
 
 <h2>Don Gato (ejemplo HTML)    //    Mr. Cat (example of HTML);</h2>
 
@@ -56,9 +57,13 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 
+
+<br><br><br>
 <hr>
 <h1>:camel: # JavaScript / TypeScript :camel: </h1>
 <hr>
+<br><br><br>
+
 
 
 
