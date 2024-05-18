@@ -12,16 +12,11 @@ EN: This repository is a compilation of my personal proyects since the beggining
      
 <br><br><br><br>
 <div align="center">
+
 🚀
-//
-//
-//
-//
-//
-//
-//
 🚀
-<br><br><br>   
+🚀
+<br>
 <hr>
 <h1>:camel: # HTML :camel:</h1>
 <hr>
@@ -45,16 +40,11 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 <br><br><br><br>
+
 🚀
-//
-//
-//
-//
-//
-//
-//
 🚀
-<br><br><br>
+🚀
+<br>
 <hr>
 <h1>:camel: # CSS :camel:</h1>
 <hr>
@@ -66,20 +56,15 @@ EN: This repository is a compilation of my personal proyects since the beggining
 [Netlify](https://don-gato-memosainz.netlify.app/)
 
 <br><br><br><br>
+
 🚀
-//
-//
-//
-//
-//
-//
-//
+🚀
 🚀
 <br><br><br>
 <hr>
 <h1>:camel: # JavaScript / TypeScript :camel: </h1>
 <hr>
-<br><br><br>
+<br>
 
 <h2>To Do List     //     Lista de Tareas(quehaceres)</h2>
 
