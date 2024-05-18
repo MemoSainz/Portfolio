@@ -1,6 +1,7 @@
-<p align="center">Portfolio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Portafolio</p>
+<div align="center">
+<p>Portfolio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Portafolio</p>
 
-<p align="center">English // Spanish &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Inglés // Español</p>
+<p>English // Spanish &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Inglés // Español</p>
 <hr>
 ES: Este repositorio es una recopilación de mis proyectos personales a lo largo de mi estudio en programación y código desde el 2023 hasta el 2024.
 <br>
@@ -11,7 +12,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <hr>
      
 <br><br><br><br>
-<div align="center">
+
 
 🚀
 🚀
