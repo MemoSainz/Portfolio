@@ -50,7 +50,9 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <hr>
 <br>
 
-<h2>Don Gato (ejemplo HTML)    //    Mr. Cat (example of HTML);</h2>
+<h2>Don Gato (habilidades en HTML)    //    Mr. Cat (skills in HTML);</h2>
+A web page with some CSS, but mostly showing most of skills in HTML
+Una página web con algo de CSS, pero mayormente mostrando habilidades en HTML
 
 (spanish) [GitHub](https://github.com/MemoSainz/proyecto-html-DonGato)
 [Netlify](https://don-gato-memosainz.netlify.app/)
