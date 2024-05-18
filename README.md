@@ -62,7 +62,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 <hr>
-<h1># JavaScript / TypeScript </h1>
+<h1>:camel: # JavaScript / TypeScript :camel: </h1>
 <hr>
 
 
