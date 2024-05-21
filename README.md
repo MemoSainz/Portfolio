@@ -45,7 +45,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 <h2>Don Gato     //    Mr. Cat </h2>
-<h3>(habilidades en HTML) - (skills in HTML)</h3>
+<h4>Habilidades en HTML - Skills in HTML</h4>
 A web page with some CSS, but mostly showing most of skills in HTML.
 <br>
 Una página web con algo de CSS, pero mayormente mostrando habilidades en HTML
