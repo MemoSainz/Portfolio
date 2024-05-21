@@ -129,4 +129,8 @@ ES: Firebase es usado como base de datos
 
 [GitHub](https://github.com/MemoSainz/validacion-formulario-firebase-JS)
 
+[EN] [Netlify](https://form-validation-firebase-memosainz.netlify.app/)
+
+[ES] [Netlify](https://form-validation-firebase-memosainz-es.netlify.app/)
+
 </div>
