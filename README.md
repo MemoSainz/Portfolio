@@ -67,7 +67,10 @@ Una página web con algo de CSS, pero mayormente mostrando habilidades en HTML
 <hr>
 <br>
 
+<h2>Primer Blog CSS    //    First blog CSS;</h2>
 
+(spanish) [GitHub](https://github.com/MemoSainz/1er-blog-CSS)
+[Netlify](https://1er-blog-css-memosainz.netlify.app/)
 
 <br><br><br><br>
 
