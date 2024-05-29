@@ -155,6 +155,7 @@ ES: Firebase es usado como base de datos
 
 
 <h2>Number Guessing Game JS     //     Juego de adivinar el Número</h2>
+It's almost the one above (Number Riddle), but now made with a While Loop (and less code), also using a window prompt.
 
 [GitHub](https://github.com/MemoSainz/number-guessing-game)
 [Netlify](https://number-guessing-game-memosainz.netlify.app/)
