@@ -137,7 +137,7 @@ Una página web con algo de CSS, pero mayormente mostrando habilidades en HTML
 EN: Firebase is used as a database <br>
 ES: Firebase es usado como base de datos
 
-[GitHub](https://github.com/MemoSainz/validacion-formulario-firebase-JS)
+[GitHub](https://github.com/MemoSainz/form-validation-firebase-JS)
 
 [EN] [Netlify](https://form-validation-firebase-memosainz.netlify.app/)
 
