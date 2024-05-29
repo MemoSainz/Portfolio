@@ -151,4 +151,12 @@ ES: Firebase es usado como base de datos
 [GitHub](https://github.com/MemoSainz/Counter-Program)
 [Netlify](https://counter-program-js-memosainz.netlify.app/)
 
+<br><br><br><br>
+
+
+<h2>Number Guessing Game JS     //     Juego de adivinar el Número</h2>
+
+[GitHub](https://github.com/MemoSainz/number-guessing-game)
+[Netlify](https://number-guessing-game-memosainz.netlify.app/)
+
 </div>
