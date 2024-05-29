@@ -79,7 +79,7 @@ Una página web con algo de CSS, pero mayormente mostrando habilidades en HTML
 🚀
 <br><br><br>
 <hr>
-<h1>:camel: # JavaScript / TypeScript :camel: </h1>
+<h1>:camel: # JavaScript :camel: </h1>
 <hr>
 <br>
 
