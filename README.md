@@ -169,4 +169,14 @@ A program to conver both Celsius & Fahrenheit.
 [EN] [GitHub](https://github.com/MemoSainz/temp-conversion-js)
 [Netlify](https://temp-conversion-js-memosainz.netlify.app/)
 
+<br><br><br><br>
+
+
+<h2>Dice Roller Program JS     //     Programa Tirador de Dados JS</h2>
+A program to roll dices the times you want!
+¡Un programa para tirar los dados las veces que quieras!
+
+[EN] [GitHub](https://github.com/MemoSainz/Dice-Roller-JS)
+[Netlify](https://dice-roller-js-memosainz.netlify.app/)
+
 </div>
