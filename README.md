@@ -179,4 +179,12 @@ A program to roll dices the times you want!
 [EN] [GitHub](https://github.com/MemoSainz/Dice-Roller-JS)
 [Netlify](https://dice-roller-js-memosainz.netlify.app/)
 
+<br><br><br><br>
+
+
+<h2>Random Password Generator JS     //     Generador de contraseñas aleatorias JS</h2>
+
+[GitHub](https://github.com/MemoSainz/Random-password-generator-JS)
+[Netlify](https://random-password-generator-memosainz.netlify.app/)
+
 </div>
