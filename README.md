@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio 2023-2024</h1>
+<h1 align="center">Portfolio 2022-2024</h1>
 
 
 <p align="center"> &nbsp; &nbsp; Portfolio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Portafolio</p>
@@ -189,6 +189,14 @@ A program to roll dices the times you want!
 
 [GitHub](https://github.com/MemoSainz/Random-password-generator-JS)
 [Netlify](https://random-password-generator-memosainz.netlify.app/)
+
+<br><br><br><br>
+
+
+<h2>Digital Clock Program JS     //     Programa Reloj Digital JS</h2>
+
+[GitHub](https://github.com/MemoSainz/digital-clock-program)
+[Netlify](https://digital-clock-app-memosainz.netlify.app/)
 
 <br><br><br><br>
 
