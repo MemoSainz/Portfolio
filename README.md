@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio 2022-2024</h1>
+![image](https://github.com/MemoSainz/Portfolio/assets/138107327/3a681e3a-71ee-4de8-ba26-f047b585d219)<h1 align="center">Portfolio 2022-2024</h1>
 
 
 <p align="center"> &nbsp; &nbsp; Portfolio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Portafolio</p>
@@ -214,6 +214,13 @@ A program to roll dices the times you want!
 [GitHub](https://github.com/MemoSainz/calculator-program-JS)
 [Netlify](https://calculator-program-memosainz.netlify.app/)
 
+<br><br><br><br>
+
+
+<h2>Rock Paper Scissors JS     //     Piedra Papel o Tijera JS</h2>
+
+[GitHub](https://github.com/MemoSainz/rock-paper-scissors-JS)
+[Netlify](https://rock-paper-scissors-memosainz.netlify.app/)
 
 
 
