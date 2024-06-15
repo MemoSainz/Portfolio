@@ -222,6 +222,14 @@ A program to roll dices the times you want!
 [GitHub](https://github.com/MemoSainz/rock-paper-scissors-JS)
 [Netlify](https://rock-paper-scissors-memosainz.netlify.app/)
 
+<br><br><br><br>
+
+
+<h2>Image Slide JS</h2>
+
+[GitHub](https://github.com/MemoSainz/image-slider-JS)
+[Netlify](https://image-slider-memosainz.netlify.app/)
+
 
 
 
