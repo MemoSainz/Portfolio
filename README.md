@@ -230,6 +230,13 @@ A program to roll dices the times you want!
 [GitHub](https://github.com/MemoSainz/image-slider-JS)
 [Netlify](https://image-slider-memosainz.netlify.app/)
 
+<br><br><br><br>
+
+
+<h2>Pokemon API Sprites JS</h2>
+
+[GitHub](https://github.com/MemoSainz/pokemon-fetch-api-sprite-JS/)
+[Netlify](https://pokemon-fetch-api-sprite.netlify.app/)
 
 
 
