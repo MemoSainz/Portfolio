@@ -252,8 +252,10 @@ A program to roll dices the times you want!
 <br>
 
 <h2>Choose your beberage     //     Escoge tu bebida</h2>
+A game simulating a vending machine
+Un juego simulando una máquina expendedora
 
-(spanish) [GitHub](https://github.com/MemoSainz/EscogeTuBebida-Java)
+[GitHub](https://github.com/MemoSainz/VendingMachine-Java)
 
 
 
