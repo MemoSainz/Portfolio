@@ -251,4 +251,14 @@ A program to roll dices the times you want!
 <hr>
 <br>
 
+<h2>Choose your beberage     //     Escoge tu bebida</h2>
+
+(spanish) [GitHub](https://github.com/MemoSainz/EscogeTuBebida-Java)
+
+
+
+<br><br><br><br>
+
+
+
 </div>
