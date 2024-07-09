@@ -247,7 +247,7 @@ A program to roll dices the times you want!
 🚀
 <br><br><br>
 <hr>
-<h1>:camel: # React :camel: </h1>
+<h1> ☕︎ :coffee: # Java :coffee: ☕︎  </h1>
 <hr>
 <br>
 
