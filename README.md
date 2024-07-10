@@ -261,6 +261,16 @@ Un juego simulando una máquina expendedora
 
 <br><br><br><br>
 
+<h2>Hangman     //     Ahorcado</h2>
+The typical game of the hangman in Java
+The típico juego del ahorcado en Java
+
+[EN/ES] [GitHub](https://github.com/MemoSainz/hangman-game/)
+
+
+
+<br><br><br><br>
+
 
 
 </div>
