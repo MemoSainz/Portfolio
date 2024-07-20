@@ -253,6 +253,7 @@ A program to roll dices the times you want!
 
 <h2>Choose your beberage     //     Escoge tu bebida</h2>
 A game simulating a vending machine
+<br>
 Un juego simulando una máquina expendedora
 
 [GitHub](https://github.com/MemoSainz/VendingMachine-Java)
@@ -264,7 +265,7 @@ Un juego simulando una máquina expendedora
 <h2>Hangman     //     Ahorcado</h2>
 The typical game of the hangman in Java
 <br>
-The típico juego del ahorcado en Java
+El típico juego del ahorcado en Java
 
 [EN/ES] [GitHub](https://github.com/MemoSainz/hangman-game/)
 
