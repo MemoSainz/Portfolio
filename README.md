@@ -273,6 +273,28 @@ El típico juego del ahorcado en Java
 
 <br><br><br><br>
 
+<h2>JavaSpring-CRUD-API-Rest-PostgreSQL</h2>
+I've made a CRUD in JAVA, with API REST, using Spring boot, Hibernate & PostgreSQL
+<br>
+Realicé un CRUD en Java, con una API Rest utilizando Spring boot, Hibernate y PostgreSQL
+
+[GitHub](https://github.com/MemoSainz/JavaSpring-CRUD-API-Rest-PostgreSQL)
+
+
+
+<br><br><br><br>
+
+<h2>JavaSpring-Railway-CRUD-apirest</h2>
+A new version of the previous repositoy, but for Railway.
+<br>
+Una nueva versión del Repositorio "JavaSpring-CRUD-API-Rest-PostgreSQL" para Railway.
+
+[GitHub](https://github.com/MemoSainz/JavaSpring-Railway-CRUD-apirest)
+
+
+
+<br><br><br><br>
+
 
 
 </div>
