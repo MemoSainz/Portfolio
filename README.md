@@ -297,7 +297,7 @@ Una nueva versión del Repositorio "JavaSpring-CRUD-API-Rest-PostgreSQL" para Ra
 
 <h2>Student Grade // Promedio de estudiante.</h2>
 
-[GitHub](https://github.com/MemoSainz/StudentGrade-Java/tree/main)
+[GitHub](https://github.com/MemoSainz/StudentGrade-Java/)
 
 
 
