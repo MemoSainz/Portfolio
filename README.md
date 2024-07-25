@@ -275,17 +275,15 @@ El típico juego del ahorcado en Java
 
 <h2>JavaSpring-CRUD-API-Rest-PostgreSQL</h2>
 
-<h4>
-CRUD
+<h4>CRUD</h4>
 
+<h4>Spring Boot</h4>
 
-Spring Boot
+<h4>Hibernate</h4>
 
-Hibernate
+<h4>PostgreSQL</h4>
 
-PostgreSQL
-
-API REST</h4>
+<h4>API REST</h4>
 
 
 I've made a CRUD in JAVA, with API REST, using Spring boot, Hibernate & PostgreSQL
