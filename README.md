@@ -275,7 +275,7 @@ El típico juego del ahorcado en Java
 
 <h2>JavaSpring-CRUD-API-Rest-PostgreSQL</h2>
 
-CRUD
+<h4>CRUD
 
 
 Spring Boot
@@ -284,7 +284,7 @@ Hibernate
 
 PostgreSQL
 
-API REST
+API REST</h4>
 
 
 I've made a CRUD in JAVA, with API REST, using Spring boot, Hibernate & PostgreSQL
