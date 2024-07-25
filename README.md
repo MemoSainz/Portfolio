@@ -274,12 +274,7 @@ El típico juego del ahorcado en Java
 <br><br><br><br>
 
 <h2>JavaSpring-CRUD-API-Rest-PostgreSQL</h2> 
-
-<h4 style="  height: 100px;
-  line-height: 100px;
-  text-align: center;
-  border: 2px dashed #f69c55;"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> CRUD <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> </h4> 
-
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 <h4>Spring Boot</h4>
 <h4>Hibernate</h4>
 <h4>PostgreSQL</h4>
