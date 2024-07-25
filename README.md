@@ -278,11 +278,8 @@ El típico juego del ahorcado en Java
 <h4>CRUD</h4>
 
 <h4>Spring Boot</h4>
-
 <h4>Hibernate</h4>
-
 <h4>PostgreSQL</h4>
-
 <h4>API REST</h4>
 
 
