@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Portfolio 2022-2024</h1>
 
 
@@ -304,6 +302,18 @@ Una nueva versión del Repositorio "JavaSpring-CRUD-API-Rest-PostgreSQL" para Ra
 
 
 <br><br><br><br>
+
+
+<h2>Permutating variables     //     Permutando variables</h2>
+
+[GitHub](https://github.com/MemoSainz/PermutatingVariableContent-Java)
+
+
+
+<br><br><br><br>
+
+
+
 
 
 
