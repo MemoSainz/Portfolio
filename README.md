@@ -277,9 +277,13 @@ El típico juego del ahorcado en Java
 
 CRUD
 
+
 Spring Boot
+
 Hibernate
+
 PostgreSQL
+
 API REST
 
 
