@@ -320,6 +320,33 @@ Una nueva versión del Repositorio "JavaSpring-CRUD-API-Rest-PostgreSQL" para Ra
 <br><br><br><br>
 
 
+<h2>ConditionalSalary-Java     //     Salario Condicional</h2>
+
+[GitHub](https://github.com/MemoSainz/ConditionalSalary-Java)
+
+
+
+<br><br><br><br>
+
+
+<h2>Number Limit     //     Número Límite</h2>
+
+[GitHub](https://github.com/MemoSainz/LimitNumber)
+
+
+
+<br><br><br><br>
+
+
+<h2>Word Print     //     Impresión de números</h2>
+
+[GitHub](https://github.com/MemoSainz/WordPrint)
+
+
+
+<br><br><br><br>
+
+
 <h2>Pokemon Stats & Attacks     //     Stats y ataques Pokemon</h2>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 <h4>Java OOP</h4>
