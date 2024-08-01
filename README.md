@@ -20,7 +20,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <br><br><br><br>
 
 
-<details> <summary><hr><h1> HTML & CSS </h1><hr></summary>
+<details> <summary><h1> HTML & CSS </h1><hr></summary>
 🚀
 🚀
 🚀
