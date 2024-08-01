@@ -19,7 +19,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <div align="center">     
 <br><br><br><br>
 
-<details> <summary> HTML & CSS</summary>
+<details> <summary><h1> 🐪 HTML & CSS 🐪 </h1></summary>
 🚀
 🚀
 🚀
