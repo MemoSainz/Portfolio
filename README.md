@@ -21,9 +21,9 @@ EN: This repository is a compilation of my personal proyects since the beggining
 
 
 <details> <summary><h1> HTML & CSS </h1><hr></summary>
+<h1>🚀
 🚀
-🚀
-🚀
+🚀</h1>
 <br><br><br>
 <hr>
 <h1>:camel: # HTML :camel:</h1>
@@ -64,9 +64,9 @@ Una página web con algo de CSS, pero mayormente mostrando habilidades en HTML
 <br><br><br><br>
 
 
+<h1>🚀
 🚀
-🚀
-🚀
+🚀</h1>
 <br><br><br>
 <hr>
 <h1>:camel: # CSS :camel:</h1>
