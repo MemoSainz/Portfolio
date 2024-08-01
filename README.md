@@ -19,10 +19,8 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <div align="center">     
 <br><br><br><br>
 
-🚀
-🚀
-🚀
-<details> <summary><hr><h1> HTML & CSS </h1></hr></summary>
+
+<details> <summary><hr><h1> HTML & CSS </h1><hr></summary>
 🚀
 🚀
 🚀
@@ -83,6 +81,8 @@ Una página web con algo de CSS, pero mayormente mostrando habilidades en HTML
 <br><br><br><br>
 </details>
 
+
+<details> <summary><hr><h1> HTML & CSS </h1><hr></summary>
 
 🚀
 🚀
@@ -245,7 +245,7 @@ A program to roll dices the times you want!
 [GitHub](https://github.com/MemoSainz/pokemon-fetch-api-sprite-JS/)
 [Netlify](https://pokemon-fetch-api-sprite.netlify.app/)
 
-
+</details>
 
 <br><br><br><br>
 
