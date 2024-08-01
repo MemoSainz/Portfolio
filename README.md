@@ -84,9 +84,9 @@ Una página web con algo de CSS, pero mayormente mostrando habilidades en HTML
 
 <details> <summary><h1> JavaScript </h1><hr></summary>
 
+<h1>🚀
 🚀
-🚀
-🚀
+🚀</h1>
 <br><br><br>
 <hr>
 <h1>:camel: # JavaScript :camel: </h1>
