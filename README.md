@@ -19,7 +19,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 <div align="center">     
 <br><br><br><br>
 
-
+<details> <summary> HTML & CSS</summary>
 🚀
 🚀
 🚀
@@ -78,6 +78,8 @@ Una página web con algo de CSS, pero mayormente mostrando habilidades en HTML
 [Netlify](https://1er-blog-css-memosainz.netlify.app/)
 
 <br><br><br><br>
+</details>
+
 
 🚀
 🚀
