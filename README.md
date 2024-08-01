@@ -22,7 +22,7 @@ EN: This repository is a compilation of my personal proyects since the beggining
 🚀
 🚀
 🚀
-<details> <summary><h1> 🐪 HTML & CSS 🐪 </h1></summary>
+<details> <summary><hr><h1> 🐪 HTML & CSS 🐪 </h1></hr></summary>
 🚀
 🚀
 🚀
