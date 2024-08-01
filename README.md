@@ -251,7 +251,7 @@ A program to roll dices the times you want!
 </details>
 
 
-<details> <summary><h1> ☕︎ :coffee: Java :coffee: ☕︎  </h1><hr></summary>
+<details> <summary><h1> Java  </h1><hr></summary>
 🚀
 🚀
 🚀
