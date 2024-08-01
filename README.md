@@ -82,7 +82,7 @@ Una página web con algo de CSS, pero mayormente mostrando habilidades en HTML
 </details>
 
 
-<details> <summary><hr><h1> HTML & CSS </h1><hr></summary>
+<details> <summary><h1> JavaScript </h1><hr></summary>
 
 🚀
 🚀
