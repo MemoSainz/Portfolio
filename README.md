@@ -252,9 +252,9 @@ A program to roll dices the times you want!
 
 
 <details> <summary><h1> Java  </h1><hr></summary>
+<h1>🚀
 🚀
-🚀
-🚀
+🚀</h1>
 <br><br><br>
 <hr>
 <h1> ☕︎ :coffee: # Java :coffee: ☕︎  </h1>
