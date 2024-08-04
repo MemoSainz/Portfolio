@@ -8,12 +8,16 @@
 <p align="center">English // Spanish &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Inglés // Español</p>
 
 <hr>
-ES: Este repositorio es una recopilación de mis proyectos personales a lo largo de mi estudio en programación y código desde el 2022 hasta el 2024.
-<br>
-     Además los subí a Netlify la mayoría de proyectos en Github. La gran mayoría están disponibles en inglés.
+
+> [!IMPORTANT]
+> ES: Este repositorio es una recopilación de mis proyectos personales a lo largo de mi estudio en programación y código desde el 2022 hasta el 2024.
+> <br>
+>     Además los subí a Netlify la mayoría de proyectos en Github. La gran mayoría están disponibles en inglés.
 <br> <hr>
-EN: This repository is a compilation of my personal proyects since the beggining of my studies in programming and coding from 2022 to 2024<br>
-     I also uploaded them to Netlify most of my Github Projects. The vast majority are in English.
+
+> [!IMPORTANT]
+> EN: This repository is a compilation of my personal proyects since the beggining of my studies in programming and coding from 2022 to 2024<br>
+>     I also uploaded them to Netlify most of my Github Projects. The vast majority are in English.
 <hr>
 
 <div align="center">     
