@@ -9,7 +9,7 @@
 
 <hr>
 
-> [!SPANISH]
+> [!IMPORTANT] (spanish)
 > ES: Este repositorio es una recopilación de mis proyectos personales a lo largo de mi estudio en programación y código desde el 2022 hasta el 2024.
 > <br>
 >     Además los subí a Netlify la mayoría de proyectos en Github. La gran mayoría están disponibles en inglés.
