@@ -466,6 +466,8 @@ Una nueva versión del Repositorio "JavaSpring-CRUD-API-Rest-PostgreSQL" para Ra
 
 
 <h2>Electronic Organizer     //     Agenda Electrónica</h2>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+<h4>Java GUI</h4>
 
 (EN) [GitHub](https://github.com/MemoSainz/ElectronicOrganizer-JavaGUI/)
 
