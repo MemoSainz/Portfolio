@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Portfolio 2022-2024</h1>
+<h1 align="center">Portfolio 2022-2025</h1>
 
 
 <p align="center"> &nbsp; &nbsp; Portfolio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Portafolio</p>
@@ -10,13 +10,13 @@
 <hr>
 
 > [!IMPORTANT]
-> ES: Este repositorio es una recopilación de mis proyectos personales a lo largo de mi estudio en programación y código desde el 2022 hasta el 2024.
+> ES: Este repositorio es una recopilación de mis proyectos personales a lo largo de mi estudio en programación y código desde el 2022 hasta el 2025.
 > <br>
 >     Además los subí a Netlify la mayoría de proyectos en Github. La gran mayoría están disponibles en inglés.
 <br> <hr>
 
 > [!IMPORTANT]
-> EN: This repository is a compilation of my personal proyects since the beggining of my studies in programming and coding from 2022 to 2024<br>
+> EN: This repository is a compilation of my personal proyects since the beggining of my studies in programming and coding from 2022 to 2025<br>
 >     I also uploaded them to Netlify most of my Github Projects. The vast majority are in English.
 <hr>
 
@@ -479,13 +479,33 @@ Una nueva versión del Repositorio "JavaSpring-CRUD-API-Rest-PostgreSQL" para Ra
 
 <h2>Seat Booking System </h2>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-<h4>Java GUI</h4>
 
 [GitHub](https://github.com/MemoSainz/SeatBooking-Java)
 
 
 
 <br><br><br><br>
+
+
+
+<h2>Weight Conversor Program     //     Conversor de peso </h2>
+
+[GitHub](https://github.com/MemoSainz/WeightConversor)
+
+
+
+<br><br><br><br>
+
+
+
+<h2>Temperature Converter Program     //     Conversor de Temperatura </h2>
+
+[GitHub](https://github.com/MemoSainz/TemperatureConverter)
+
+
+
+<br><br><br><br>
+
 
 
 
