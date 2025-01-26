@@ -12,12 +12,12 @@
 > [!IMPORTANT]
 > ES: Este repositorio es una recopilación de mis proyectos personales a lo largo de mi estudio en programación y código desde el 2022 hasta el 2025.
 > <br>
->     Además los subí a Netlify la mayoría de proyectos en Github. La gran mayoría están disponibles en inglés.
+>     Además los subí la mayoría de mis Proyectos de GitHub (los que no necesitan terminal) a Netlify. La gran mayoría están disponibles en inglés.
 <br> <hr>
 
 > [!IMPORTANT]
 > EN: This repository is a compilation of my personal proyects since the beggining of my studies in programming and coding from 2022 to 2025<br>
->     I also uploaded them to Netlify most of my Github Projects. The vast majority are in English.
+>     I also uploaded most of my Github Projects (the non-terminal ones) to Netlify. The vast majority are in English.
 <hr>
 
 <div align="center">     
