@@ -549,9 +549,18 @@ Una nueva versión del Repositorio "JavaSpring-CRUD-API-Rest-PostgreSQL" para Ra
 
 
 
-<h2>Jav Quiz Game      //     Juego de Preguntas</h2>
+<h2>Java Quiz Game      //     Juego de Preguntas</h2>
 
 [GitHub](https://github.com/MemoSainz/JavaQuizGame)
+
+
+<br><br><br><br>
+
+
+
+<h2>Rock-Paper-Scissors game       //     Piedra, papel o tijera</h2>
+
+[GitHub](https://github.com/MemoSainz/Java-RockPaperScissors)
 
 
 
