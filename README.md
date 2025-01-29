@@ -568,7 +568,7 @@ Una nueva versión del Repositorio "JavaSpring-CRUD-API-Rest-PostgreSQL" para Ra
 
 
 
-<h2>Java Slot Machinie</h2>
+<h2>Java Slot Machine</h2>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 
 [GitHub](https://github.com/MemoSainz/JavaSlotMachine)
