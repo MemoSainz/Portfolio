@@ -540,6 +540,7 @@ Una nueva versión del Repositorio "JavaSpring-CRUD-API-Rest-PostgreSQL" para Ra
 
 
 <h2>Dice Roller Program      //     Programa Tirar Dados</h2>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 
 [GitHub](https://github.com/MemoSainz/DiceRoller-Java)
 
