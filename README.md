@@ -574,6 +574,16 @@ Una nueva versión del Repositorio "JavaSpring-CRUD-API-Rest-PostgreSQL" para Ra
 [GitHub](https://github.com/MemoSainz/JavaSlotMachine)
 
 
+<br><br><br><br>
+
+
+
+<h2>Music Player</h2>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+
+[GitHub](https://github.com/MemoSainz/MusicPlayer-JavaTerminal/tree/main)
+
+
 
 <br><br><br><br>
 
