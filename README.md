@@ -655,6 +655,6 @@ Una nueva versión del Repositorio "JavaSpring-CRUD-API-Rest-PostgreSQL" para Ra
 <br>
 
 
-<b> All lefts reserved 	&#169; Memo Sainz 2024 </b>
+<b> All lefts reserved 	&#169; Memo Sainz 2022 - 2025 </b>
 </div>
 </div>
