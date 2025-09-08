@@ -280,7 +280,7 @@ The typical game of the hangman in Java
 <br>
 El típico juego del ahorcado en Java
 
-[EN/ES] [GitHub](https://github.com/MemoSainz/hangman-game/)
+[GitHub](https://github.com/MemoSainz/hangman-game/)
 
 
 
